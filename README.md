@@ -169,6 +169,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [bitcoinmints](https://github.com/MakePrisms/bitcoinmints) is a list of ecash mints, supported NUTS, and reviews of the mints. [bitcoinmints.com](http://bitcoinmints.com) 
 - [cashu-mint-audit (client)](https://github.com/pablof7z/cashu-mint-audit) is an async Rust client for the Cashu mint auditor API.
 - [cashu-mint-status-board](https://github.com/shroominic/cashu-mint-status-board) is a mint status board. [cashu.live](https://cashu.live)
+- [Cashu Mint Directory](https://github.com/ye0man/cashu-mint-directory) is an interactive table to discover and connect with Cashu mints.
 - [Cashumints.space](https://Cashumints.space) is an index of Cashu ecash mints and offers reviews of these mints, complete with comprehensive mint pages.
 - [Mint Audit](https://audit.8333.space/) is a mint auditor and [Mint Watch Bot](https://primal.net/p/npub1cashu0thfukl57lgwtarn7h4jrzrg2e346zc8sjvjd8u5hheds0qlhpt92) is a bot that watches the status of mints.
 - [mint-discovery](https://github.com/jooray/mint-discovery) is a Cashu mint discovery library.
@@ -277,6 +278,7 @@ Note: These documentation sites are works in progress (WIP) and welcome feedback
 - [Cashu Monopoly](https://github.com/bTCpy/monopoly/) is classic Monopoly, but the money is real Bitcoin. Buy in with Lightning, pot held in a Cashu wallet, winner takes the sats.
 - [Cashu Pay Server](https://github.com/jooray/cashupayserver) accepts Bitcoin Lightning payments without running a full BTCPay Server instance. [Site](https://cashupayserver.org)
 - [cashu Spilman channels](https://github.com/SatsAndSports/cashu_spilman_channels) is Spillman-style payment channels built with Cashu.
+- [Cashu Sync](https://github.com/brenorb/cashu-sync) is a phone-first Silent Link wallet for one user controlling paired PWA installations.
 - [cashu-admin-ui](https://github.com/patoo0x/cashu-admin-ui) is an admin dashboard for Cashu Nutshell mints.
 - [cashu-arkade-lightning-procesor](https://github.com/d4rp4t/cashu-arkade-lightning-procesor) is an Arkade Lightning payment processor for Cashu mints written in C#.
 - [cashu-batch-mint](https://github.com/gudnuf/cashu-batch-mint) pays one Lightning invoice to a Cashu mint and produces a stack of outputs/tokens.
